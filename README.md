@@ -11,7 +11,7 @@
 - 👋 Hi, I’m SujanVulasala
 - 👀 I’m interested in Web Development, Data Analytics and Machine Learning Projects
 - 🌱 I’m currently learning Basics of Data Science and Machnine Learning
-- 📫 How to reach me **svulasal@gitam.in**
+- 📫 How to reach me **svulasal@gitam.in** or **sujanvulasala@gmail.com**
 - 😄 Pronouns: Kutty
 
 Feel free to explore my repositories and reach out. Looking forward to connecting with you!
