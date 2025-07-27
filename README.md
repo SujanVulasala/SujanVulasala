@@ -16,6 +16,17 @@
 
 Feel free to explore my repositories and reach out. Looking forward to connecting with you!
 
+---
+
+### 🔗 Let's Connect
+
+- 🌐 GitHub: [github.com/sujanvulasala](https://github.com/sujanvulasala)
+- 💼 LinkedIn: [linkedin.com/in/sujanvulasala](https://linkedin.com/in/sujanvulasala)
+  
+---
+
+⭐ *"I’m here to build, learn, lead and grow — and help others do the same. Let’s collaborate and make technology work for everyone."*
+
 <!---
 SujanVulasala/SujanVulasala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
