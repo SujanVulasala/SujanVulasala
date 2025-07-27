@@ -33,6 +33,9 @@ Feel free to explore my repositories and reach out. Looking forward to connectin
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/SujanVulasala/)
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/svulasal)
+
+
   
 ---
 
