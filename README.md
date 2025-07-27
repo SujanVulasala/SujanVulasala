@@ -20,8 +20,7 @@ Feel free to explore my repositories and reach out. Looking forward to connectin
 
 ### 🔗 Let's Connect
 
-- 🌐 GitHub: [github.com/sujanvulasala](https://github.com/sujanvulasala)
-- 💼 LinkedIn: [linkedin.com/in/sujanvulasala](https://linkedin.com/in/sujanvulasala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujanvulasala)
   
 ---
 
