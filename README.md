@@ -21,6 +21,9 @@ Feel free to explore my repositories and reach out. Looking forward to connectin
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujanvulasala)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/SujanVulasala/)
+
   
 ---
 
