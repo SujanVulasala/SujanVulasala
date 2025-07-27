@@ -29,11 +29,20 @@ Feel free to explore my repositories and reach out. Looking forward to connectin
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujanvulasala)
+<p align="left">
+  <a href="https://linkedin.com/in/sujanvulasala" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/SujanVulasala/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/svulasal" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+  </a>
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/SujanVulasala/)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/svulasal)
 
 
   
