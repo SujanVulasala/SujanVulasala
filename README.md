@@ -18,6 +18,15 @@ Feel free to explore my repositories and reach out. Looking forward to connectin
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujanvulasala&show_icons=true&theme=radical" alt="Sujan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujanvulasala&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujanvulasala)
